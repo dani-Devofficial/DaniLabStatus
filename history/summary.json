@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 539,
+    "timeDay": 539,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 641,
-    "timeWeek": 641,
-    "timeMonth": 641,
-    "timeYear": 641,
+    "time": 618,
+    "timeDay": 618,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vqtolrqlqvfpzjsedjrw.supabase.co.ico",
     "slug": "sayknow-count-server",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 51,
-    "timeDay": 51,
-    "timeWeek": 51,
-    "timeMonth": 51,
-    "timeYear": 51,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 52,
+    "timeDay": 52,
+    "timeWeek": 52,
+    "timeMonth": 52,
+    "timeYear": 52,
     "dailyMinutesDown": {
-      "2026-04-04": 2
+      "2026-04-04": 3
     }
   },
   {
@@ -66,11 +66,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 191,
+    "timeDay": 191,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Status Page",
+    "url": "status.dani.ggm.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "status-page",
+    "status": "down",
+    "uptime": "10.11%",
+    "uptimeDay": "10.11%",
+    "uptimeWeek": "10.11%",
+    "uptimeMonth": "10.11%",
+    "uptimeYear": "10.11%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-04-04": 0
+    }
   }
 ]
