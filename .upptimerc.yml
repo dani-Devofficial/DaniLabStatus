@@ -11,10 +11,10 @@ sites:
     interval: 5
   - name: Sayknow Count Server
     url: https://vqtolrqlqvfpzjsedjrw.supabase.co/functions/v1/smooth-task/?askdata=안녕!
-    interval: 5
+    interval: 30
   - name: HuggingFace Sayknow
     url: https://sayknowlab-sayknow-v1.hf.space
-    interval: 5
+    interval: 30
   - name: Status Page
     url: https://status.dani.ggm.kr/
     interval: 5
