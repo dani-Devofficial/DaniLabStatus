@@ -5,14 +5,19 @@ repo: DaniLabStatus # The name of this repository
 sites:
   - name: DaniLab Homepage
     url: https://dani.ggm.kr
+    interval: 5
   - name: Sayknow Homepage
     url: https://sayknow.ggm.kr
+    interval: 5
   - name: Sayknow Count Server
     url: https://vqtolrqlqvfpzjsedjrw.supabase.co/functions/v1/smooth-task/?askdata=안녕!
+    interval: 5
   - name: HuggingFace Sayknow
     url: https://sayknowlab-sayknow-v1.hf.space
+    interval: 5
   - name: Status Page
     url: https://status.dani.ggm.kr/
+    interval: 5
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
